@@ -1,0 +1,18 @@
+body{
+    background-color: #C6D9EE;
+    font-family: sans-serif;
+    text-align: justify;
+}
+h1{
+    font-size: 300%;
+    text-align: right;
+}
+h2{
+    font-family: monospace;
+    font-size: 300%;
+    font-variant: small-caps;
+}
+P{
+    line-height: 200%;
+    text-indent: 3em;
+}
